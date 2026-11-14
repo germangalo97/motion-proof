@@ -1,0 +1,14 @@
+{
+  "name": "motion-proof",
+  "version": "1.0.0",
+  "description": "Skill de Claude Code para videos de lanzamiento y motion graphics con Remotion, con controles automáticos de calidad.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}
